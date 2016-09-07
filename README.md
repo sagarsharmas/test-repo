@@ -1,3 +1,3 @@
 # test-repo
 This is the test repo.
-## This is the secondary heading.
+## This is the secondary heading
